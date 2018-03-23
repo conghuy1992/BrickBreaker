@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BrickBreaker!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello">Hello World, runForIt!</string>
+
+    <string-array name="menu_items">
+        <item>Continue Game</item>
+        <item>New Game</item>
+        <item>Exit</item>
+    </string-array>
+</resources>
